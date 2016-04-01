@@ -10,7 +10,8 @@ include:
   - "_pages"
 
 exclude:
-  - "/assets/"
+  - "/assets/scss/"
+  - "/assets/vendor/"
   - "bower.json"
   - "composer.json"
   - "composer.lock"
