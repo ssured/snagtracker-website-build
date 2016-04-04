@@ -1,7 +1,10 @@
 <nav>
-  <ul class="menu clearfix float-right">
-    {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="menu-centered">
+    <ul class="menu">
+      {% for item in site.data.nav-footer %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+      {% endfor %}
+        <li class="menu-text">&copy;{{ site.time | date: '%Y' }} Racido BV</li>
+    </ul>
+  </div>
 </nav>

@@ -1,0 +1,26 @@
+// --------------------------------------------------
+// Prevent FOUC
+// see http://foundation.zurb.com/sites/docs/responsive-navigation.html
+// --------------------------------------------------
+
+.no-js {
+  @include breakpoint(small only) {
+    .top-bar {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+    .title-bar {
+      display: none;
+    }
+  }
+}
+
+li.title-bar-title a, li.menu-text a {
+  color: inherit;
+  line-height: inherit;
+  padding: 0;
+  display: inline;
+}
+

@@ -1,6 +1,7 @@
 {% include head.html %}
 
-<header>
-<small><i>header</i></small>
-{% include components/nav-menu.html %}
+<header data-sticky-container>
+  <div data-sticky data-margin-top="0" style="width:100%" data-top-anchor="1px">
+    {% include components/nav-menu.html %}
+  </div>
 </header>

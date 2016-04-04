@@ -1,0 +1,17 @@
+left:
+  - link: Home
+    url: /
+  - menu: Yoyo
+    items:
+      - link: Contact
+        url: /contact
+
+      - link: Inloggen
+        url: https://app.snagtracker.com
+
+right:
+  - link: Contact
+    url: /contact
+
+  - link: Inloggen
+    url: https://app.snagtracker.com
