@@ -1,6 +1,6 @@
 <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle></button>
-  <div class="title-bar-title"><a href="/">SnagTracker</a></div>
+  <div class="title-bar-title">SnagTracker</div>
 </div>
 
 <div class="top-bar" id="example-menu">
@@ -13,7 +13,7 @@
         {% endif %}
         {% if item.menu %}
           <li>
-            <a href="#">{{item.menu}}</a>
+            <a href="{{ item.url }}">{{ item.menu }}</a>
             <ul class="menu vertical">
               {% for item in item.items %}
                 <li><a href="{{ item.url }}">{{ item.link }}</a></li>

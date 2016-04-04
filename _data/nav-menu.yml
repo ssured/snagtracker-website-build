@@ -1,13 +1,16 @@
 left:
   - link: Home
     url: /
-  - menu: Yoyo
+  - menu: Voordelen
+    url: '#'
     items:
-      - link: Contact
-        url: /contact
+      - link: Wat levert 't op?
+        url: /wat-levert-t-op
 
-      - link: Inloggen
-        url: https://app.snagtracker.com
+      - link: Slimmer dan de concurrent
+        url: /unieke-eigenschappen
+  - link: Kosten
+    url: /kosten
 
 right:
   - link: Contact

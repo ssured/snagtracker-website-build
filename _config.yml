@@ -4,6 +4,15 @@ title:                  "Site Title"
 description:            "Site description"
 google-verification:    ""
 
+# Build settings
+markdown:    kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+  parse_span_html: true
+
+highlighter: rouge
+
 # Handling Reading
 include:
   - ".htaccess"

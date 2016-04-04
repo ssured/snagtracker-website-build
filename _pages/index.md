@@ -1,7 +1,99 @@
 ---
 permalink: /
 layout: index
-title: Homepage
+title: SnagTracker
 ---
 
-Welcome to your new Jekyll site.
+{: .text-center }
+# S<span class="show-for-medium">nel en s</span>lim opnames doen<span class="show-for-large"> met je tablet</span>
+
+<div class="flex-video widescreen">
+  <iframe src="//player.vimeo.com/video/112169918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class="row">
+{: .small-12 .columns }
+Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. In de helft van de tijd een kwalitatief beter rapport, volg openstaande punten op en houdt zichtbaar controle over elk project.
+</div>
+
+<div class="row">
+{: .medium-6 .columns }
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button}
+
+{: .medium-6 .columns .text-center}
+**&euro;50** per maand per gebruiker
+<span class="show-for-medium"><br/>3 maanden niet goed geld terug garantie</span>
+<span class="show-for-large">&amp; maandelijks opzegbaar</span>
+</div>
+
+<div class="callout secondary">
+{: .text-center }
+## Hoe 't werkt?
+
+<div class="row medium-up-3">
+  <div class="column">
+#### <span class="hide-for-medium-only">Stap </span>1: Locatie kiezen
+![](/assets/img/201604041455-7f92a2350d3d6ce36df7a8f899e12497.png){: .thumbnail}
+Markeer je locatie op de plattegrond
+  </div>
+
+  <div class="column">
+#### <span class="hide-for-medium-only">Stap </span>2: Foto maken
+![](/assets/img/201604041449-073501e4924de95a57ca314556373123.png){: .thumbnail}
+Maak een foto en omcirkel details
+  </div>
+
+  <div class="column">
+#### <span class="hide-for-medium-only">Stap </span>3: Toewijzen
+![](/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png){: .thumbnail}
+Wijs toe aan verantwoordelijke partij
+  </div>
+</div>
+</div>
+
+<div class="row">
+{: .small-12 .columns .text-center}
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .success .button}
+</div>
+
+<h2 style="text-align: center;">
+  Algemene kenmerken
+</h2>
+
+<div class="row medium-up-3 large-up-5">
+  <div class="column">
+{: .no-margin}
+![](/assets/img/201604041603-f4c0d9691811157cff71467e53650cbf.png){: .thumbnail}
+
+##### Efficient digitaal samenwerken aan elk project<small></small>
+
+  </div>
+
+  <div class="column">
+{: .no-margin}
+![](/assets/img/201604041553-e9f72b0c22c2e8dadfb92da6308cb8b2.png){: .thumbnail}
+
+##### Werkt op computer, telefoon &eacute;n tablet zowel online als offline
+  </div>
+
+  <div class="column">
+{: .no-margin}
+![](/assets/img/201604041555-2fc4f42b272df4d9eb45cfda161cfde6.png){: .thumbnail}
+
+##### Lees elke plattegrond of andere .pdf gemakkelijk in
+  </div>
+
+  <div class="column">
+{: .no-margin}
+![](/assets/img/201604041558-0aade2134dfb27eb05d2d3124c5d1b90.png){: .thumbnail}
+
+##### Documenten veilig en toegankelijk in de cloud opgeslagen
+  </div>
+
+  <div class="column">
+{: .no-margin}
+![](/assets/img/201604041601-efd3bd3c866fb8ec8116059a953f23b5.png){: .thumbnail}
+
+##### Maak mooie rapporten in uw huisstijl
+  </div>
+</div>
