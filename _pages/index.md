@@ -17,13 +17,13 @@ Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. In 
 </div>
 
 <div class="row">
-{: .medium-6 .columns }
-[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button}
-
 {: .medium-6 .columns .text-center}
 **&euro;50** per maand per gebruiker
 <span class="show-for-medium"><br/>3 maanden niet goed geld terug garantie</span>
 <span class="show-for-large">&amp; maandelijks opzegbaar</span>
+
+{: .medium-6 .columns }
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button}
 </div>
 
 <div class="callout secondary">
@@ -51,14 +51,50 @@ Wijs toe aan verantwoordelijke partij
 </div>
 </div>
 
+
 <div class="row">
 {: .small-12 .columns .text-center}
 [Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .success .button}
 </div>
 
-<h2 style="text-align: center;">
-  Algemene kenmerken
-</h2>
+
+<div class="callout secondary">
+{: .text-center }
+## De ideale hulp voor opleveringen in de bouw
+
+<div class="row medium-up-3">
+  <div class="column">
+#### Helder overzicht op locatie
+![](/assets/img/201604041704-d47fb2dd4b6a934417fce6a00651b8d3.png){: .thumbnail}
+Op je tablet of telefoon zijn alle tekeningen beschikbaar. Bij elke ronde die je maakt heb je ook de informatie van vorige rondes beschikbaar, zo kan je zuiver sturen. *Klaar op locatie.*
+  </div>
+
+  <div class="column">
+#### Voortgang in één oogopslag
+![](/assets/img/201604041645-11f85e78c3ee5d933017bc1857ae4165.png){: .thumbnail}
+
+Wijs taken toe aan onderaannemers en houd de voortgang bij. Het programma maakt automatische voortgangsrapporten. Hoe meer punten afgerond zijn, hoe groener je overzichten. *Haal alle deadlines.*
+  </div>
+
+  <div class="column">
+#### Takenlijsten per onderaannemer
+![](/assets/img/201604041654-91e86dae84257fade6ffa47ad9d732af.png){: .thumbnail}
+
+Draai voor uw onderaannemers individuele takenlijsten uit. Doordat automatisch een kleine plattegrond wordt toegevoegd weten zij precies wat waar gedaan moet worden. *Voorkom loopverliezen.*
+  </div>
+</div>
+</div>
+
+
+<div class="row">
+{: .small-12 .columns .text-center}
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .success .button}
+</div>
+
+
+<div class="callout secondary">
+{: .text-center }
+## Algemene kenmerken
 
 <div class="row medium-up-3 large-up-5">
   <div class="column">
@@ -96,4 +132,9 @@ Wijs toe aan verantwoordelijke partij
 
 ##### Maak mooie rapporten in uw huisstijl
   </div>
+</div>
+
+<div class="row column text-center">
+[Lees verder hoe wij verschillen van de rest van de markt.](/unieke-eigenschappen)
+</div>
 </div>
