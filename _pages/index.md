@@ -1,14 +1,14 @@
 ---
 permalink: /
 layout: index
-title: SnagTracker
+#title: SnagTracker
 ---
 
 {: .text-center }
 # S<span class="show-for-medium">nel en s</span>lim opnames doen<span class="show-for-large"> met je tablet</span>
 
 <div class="flex-video widescreen">
-  <iframe src="//player.vimeo.com/video/112169918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//player.vimeo.com/video/112169918" wmode="opaque" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <div class="row">
