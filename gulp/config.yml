@@ -34,6 +34,8 @@ javascript:
   notification: "Running JavaScript"
   # Paths to JavaScript libraries, which are combined into one file
   src:
+    - "assets/vendor/plyr/dist/plyr.js"
+
     # Libraries requried by Foundation
     - "assets/vendor/jquery/dist/jquery.js"
     - "assets/vendor/what-input/what-input.js"

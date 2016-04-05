@@ -7,9 +7,49 @@ layout: index
 {: .text-center }
 # S<span class="show-for-medium">nel en s</span>lim opnames doen<span class="show-for-large"> met je tablet</span>
 
-<div class="flex-video widescreen">
-  <iframe src="//player.vimeo.com/video/112169918" wmode="opaque" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="flex-video widescreen js-media-player">
+  <video poster="/assets/img/201604051449-40d721d92dbafde0d6fa167cb0ecb316.png" controls crossorigin>
+    <!-- Video files -->
+    <source src="/assets/video/snagtracker.mp4" type="video/mp4">
+    <source src="/assets/video/snagtracker.webm" type="video/webm">
+
+    <a href="/assets/video/snagtracker.mp4">Download video</a>
+  </video>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function(event) {
+  plyr.setup('.js-media-player', {
+    title: 'SnagTracker introductie',
+    fullscreen: { enabled: false },
+    controls: [],
+    tooltips: { controls: true }
+  });
+});
+(function() {
+  ['/assets/img/plyr.svg']
+  .forEach(function(u) {
+    var x = new XMLHttpRequest(), b = document.body;
+    if ('withCredentials' in x) {
+      x.open('GET', u, true);
+    }
+    else if (typeof XDomainRequest == 'function') {
+      x = new XDomainRequest();
+      x.open('GET', u);
+    }
+    else { return; }
+    x.onload = function() {
+      var c = document.createElement('div');
+      c.setAttribute('hidden', '');
+      c.innerHTML = x.responseText;
+      b.insertBefore(c, b.childNodes[0]);
+    };
+    setTimeout(function () {
+      x.send();
+    }, 0);
+  });
+})();
+</script>
 
 <div class="row">
 {: .small-12 .columns }
