@@ -4,7 +4,7 @@ layout: page
 title:  Unieke eigenschappen
 ---
 
-### Minimaal 3 keer goedkoper
+### Minimaal 3 keer zo goedkoop
 
 Er zijn vele opname producten in de markt beschikbaar. Al deze producten rekenen hoge licentiekosten en sturen op lange contracten. Wij houden het simpel en transparant; &euro;50 per maand per gebruiker, ongeacht het aantal projecten of gebruiksduur. Vraag gerust een offerte aan bij de concurrent, wij garanderen een 3 keer lagere prijs.
 
