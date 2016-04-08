@@ -12,7 +12,7 @@ Omdat wij geloven in ons product, hebben wij de eerste drie maanden een niet-goe
 
 ### Op maat gemaakte rapporten
 
-Een rapport uit SnagTracker is representatief voor uw organisatie! Wij kopie&uml;ren namelijk niet alleen uw logo in het rapport, maar maken, in samenwerking met u, nette en beknopte rapporten op maat gemaakt; naar uw wensen en huisstijl. Daarnaast kunt u deze rapporten delen met al uw relaties.
+Een rapport uit SnagTracker is representatief voor uw organisatie! Wij kopie&uml;ren namelijk niet alleen uw logo in het rapport, maar maken, in samenwerking met u, nette en beknopte rapporten op maat gemaakt; naar uw wensen en huisstijl. Een rapport uit SnagTracker is meteen representatief voor uw organisatie; u kunt deze onbewerkt delen met al uw relaties.
 
 ### Geen beklemmende licenties
 
