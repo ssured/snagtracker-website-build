@@ -12,7 +12,7 @@ Omdat wij geloven in ons product, hebben wij de eerste drie maanden een niet-goe
 
 ### Op maat gemaakte rapporten
 
-Een rapport uit SnagTracker is representatief voor uw organisatie! Wij kopie&uml;ren namelijk niet alleen uw logo in het rapport, maar maken, in samenwerking met u, nette en beknopte rapporten op maat gemaakt; naar uw wensen en huisstijl. Een rapport uit SnagTracker is meteen representatief voor uw organisatie; u kunt deze onbewerkt delen met al uw relaties.
+Een rapport uit SnagTracker is representatief voor uw organisatie! Wij kopi&euml;ren namelijk niet alleen uw logo in het rapport, maar maken, in samenwerking met u, nette en beknopte rapporten op maat gemaakt; naar uw wensen en huisstijl. Een rapport uit SnagTracker is meteen representatief voor uw organisatie; u kunt deze onbewerkt delen met al uw relaties.
 
 ### Geen beklemmende licenties
 
@@ -24,7 +24,7 @@ SnagTracker blijft bij de kern; geen overbodige poespas. Importeer uw plattegron
 
 ### Geen app, w&eacute;l overal toegankelijk
 
-SnagTracker is geen app en hoeft dus niet uit de app- of play-store gei&uml;nstalleerd te worden. Geen gedoe met creditcards of itunes licenties. Omdat SnagTracker gewoon een website is, kunt u zelfs een computer van uw collega lenen om door te werken. Makkelijk toch!? Ondanks dat het een website is, werkt SnagTracker ook door als u even geen verbinding hebt. U kunt dus prima doorwerken als u op een afgelegen locatie bent, zoals een kelder.
+SnagTracker is geen app en hoeft dus niet uit de app- of play-store ge&iuml;nstalleerd te worden. Geen gedoe met creditcards of itunes licenties. Omdat SnagTracker gewoon een website is, kunt u zelfs een computer van uw collega lenen om door te werken. Makkelijk toch!? Ondanks dat het een website is, werkt SnagTracker ook door als u even geen verbinding hebt. U kunt dus prima doorwerken als u op een afgelegen locatie bent, zoals een kelder.
 
 ### Naadloze synchronisatie tussen mobiel en vaste PC
 
