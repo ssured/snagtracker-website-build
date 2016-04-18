@@ -1,7 +1,8 @@
 # Site settings
 language:               "NL-nl"
 title:                  "SnagTracker"
-description:            "Snel en slim opnames doen met je tablet"
+description: >
+  SnagTracker: simpel en snel duidelijke opnames maken met je telefoon of tablet
 google-verification:    ""
 
 # Build settings
@@ -36,6 +37,7 @@ exclude:
   - "package.json"
   - "README.md"
   - "rev-manifest.json"
+  - "SnagTrackerDocs"
 
 # Plugins
 gems:             ["jekyll-sitemap", "jekyll-paginate"]
@@ -51,3 +53,14 @@ incremental:      true
 permalink:        "/blog/:year/:title/"
 paginate_path:    "/blog/page:num"
 paginate:         5
+
+collections:
+  handleidingen:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: handleidingen
+    values:
+      layout: handleiding

@@ -3,17 +3,18 @@
 // --------------------------------------------------
 
 header {
-  @include grid-row;
-  background-color: $light-gray;
+  // @include grid-row;
+  // background-color: $light-gray;
 
-  nav {
-    @include grid-column;
-  }
+  // nav {
+  //   @include grid-column;
+  // }
 }
 
 footer {
   @include grid-row;
-  background-color: $light-gray;
+  background-color: $black;
+  color: $white;
 
   nav {
     @include grid-column;

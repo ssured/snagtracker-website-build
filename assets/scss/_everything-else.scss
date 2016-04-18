@@ -2,6 +2,10 @@
   margin: 0;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 header {
   z-index: 1;
 }
@@ -20,3 +24,17 @@ header {
   }
 }
 
+// Use white text on black top bar
+.top-bar .menu {
+  & .menu-text,
+  & a {
+    color: $white;
+  }
+  & > li.is-dropdown-submenu-parent > a::after {
+    border-color: $white transparent transparent;
+  }
+}
+
+h2 {
+  text-decoration: underline;
+}

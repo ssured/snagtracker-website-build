@@ -14,5 +14,8 @@ right:
   - link: Contact
     url: /contact
 
+  - link: Handleiding
+    url: /handleidingen
+
   - link: Inloggen
     url: https://app.snagtracker.com
