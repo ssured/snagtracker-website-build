@@ -10,7 +10,7 @@ layout: front-page
 
 <div class="row">
 {: .medium-6 .text-center .columns }
-Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. In de helft van de tijd een kwalitatief beter rapport, volg openstaande punten op en houdt zichtbaar controle over elk project.
+Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. In de helft van de tijd een kwalitatief beter rapport? Volg openstaande punten op en houd zichtbaar controle over elk project.
 
 {: .medium-6 .columns }
 <div>
@@ -125,7 +125,7 @@ Altijd één persoon verantwoordelijk. Zo heeft iedereen helder wat gedaan moet 
   <div class="column">
 ### Helder overzicht op locatie
 ![](/assets/img/201604041704-d47fb2dd4b6a934417fce6a00651b8d3.png){: .thumbnail}
-Op je tablet of telefoon zijn alle tekeningen beschikbaar. Bij elke ronde die je maakt heb je ook de informatie van vorige rondes beschikbaar, zo kan je zuiver sturen. *Klaar op locatie.*
+Op je tablet of telefoon zijn alle tekeningen beschikbaar. Bij elke ronde die je maakt, heb je ook de informatie van vorige rondes beschikbaar. Zo kan je zuiver sturen. *Klaar op locatie.*
   </div>
 
   <div class="column">
@@ -139,7 +139,7 @@ Wijs taken toe aan onderaannemers en houd de voortgang bij. Het programma maakt 
 ### Individuele takenlijsten
 ![](/assets/img/201604041654-91e86dae84257fade6ffa47ad9d732af.png){: .thumbnail}
 
-Print of email voor uw onderaannemers individuele takenlijsten. Doordat automatisch een kleine plattegrond wordt toegevoegd weten zij precies wat waar gedaan moet worden. *Voorkom loopverliezen.*
+Print of email voor uw onderaannemers individuele takenlijsten. Doordat automatisch een kleine plattegrond wordt toegevoegd, weten zij precies wat waar gedaan moet worden. *Voorkom loopverliezen.*
   </div>
 </div>
 
@@ -164,7 +164,7 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 {: .no-margin}
 ![](/assets/img/201604041603-f4c0d9691811157cff71467e53650cbf.png){: .thumbnail}
 
-##### Efficient digitaal samenwerken aan elk project<small></small>
+##### Effici&euml;nt digitaal samenwerken aan elk project<small></small>
 
   </div>
 
@@ -172,7 +172,7 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 {: .no-margin}
 ![](/assets/img/201604041553-e9f72b0c22c2e8dadfb92da6308cb8b2.png){: .thumbnail}
 
-##### Werkt op computer, telefoon &eacute;n tablet zowel online als offline
+##### Werk op computer, telefoon &eacute;n tablet, zowel online als offline
   </div>
 
   <div class="column">
