@@ -1,0 +1,10 @@
+<ul>
+{% for name in page.links %}
+{% capture name_path %}_{{page.collection}}/{{name}}.md{% endcapture %}
+{% for handleiding in site.handleidingen %}
+{% if handleiding.path == name_path %}
+<li><a href="{{ handleiding.url | prepend: site.baseurl }}">{{handleiding.title}}</a></li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>

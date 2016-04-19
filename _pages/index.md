@@ -6,10 +6,14 @@ layout: front-page
 
 <div id="bgimage" class="aligner"><div>
 {: .text-center .main-title}
+# **Sna<span>g</span>Tracker**
+
+{: .text-center}
 # S<span class="show-for-medium">nel en s</span>lim inspecties doen<span class="show-for-large"> met je tablet</span>
 
 <div class="row">
 <div class="medium-6 columns">
+{: .lead}
 Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. Je kan direct op locatie met je tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd!
 
 {: .show-for-medium}
@@ -69,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 })();
 </script>
 
-[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-small-only}
+[Registreer nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-small-only}
 
 </div></div>{% comment %}Einde video{% endcomment %}
 
@@ -107,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 #### Stap 1: Markeer locatie
 
 {: .medium-8 .columns}
-Op je tablet of telefoon heb je altijd alle plattegronden beschikbaar.
+Op je tablet of telefoon heb je altijd alle plattegronden beschikbaar. Je kan op de plattegronden navigeren met je vingers, net als op Google Maps bijvoorbeeld. Tik met je vinger de locatie aan waar je staat en je maakt direct een nieuwe taak aan.
 </div>
 
 
@@ -116,7 +120,7 @@ Op je tablet of telefoon heb je altijd alle plattegronden beschikbaar.
 #### Stap 2: Maak foto
 
 {: .medium-8 .columns}
-Gebruik de camera van je device, met je vinger kan je gemakkelijk details aangeven
+Gebruik de camera van je device, die heb je namelijk toch al in je handen. Na het maken van de foto kan je met je vinger gemakkelijk details omcirkelen. Zo is het nog duidelijker wat je bedoelt. Als nodig kan je ook tekst toevoegen.
 </div>
 
 <div class="row">
@@ -124,15 +128,13 @@ Gebruik de camera van je device, met je vinger kan je gemakkelijk details aangev
 #### Stap 3: Wijs toe
 
 {: .medium-8 .columns}
-Altijd één persoon verantwoordelijk. Zo heeft iedereen helder wat gedaan moet worden
+Een taak dient natuurlijk opvolging te hebben. Door deze toe te wijzen aan &eacute;&eacute;n persoon is het altijd duidelijk wie wat moet doen. Later kunt u lijsten filteren zodat u per verantwoordelijke precies kunt zien wie wat moet doen.
 </div>
 
-# &nbsp;
+-----------------------
 
 {: .text-center }
 ## SnagTracker is de ideale hulp voor opleveringen in de bouw
-
-# &nbsp;
 
 <div class="row medium-up-3">
   <div class="column">
@@ -177,7 +179,7 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 {: .no-margin}
 ![](/assets/img/201604041603-f4c0d9691811157cff71467e53650cbf.png){: .thumbnail}
 
-##### Effici&euml;nt digitaal samenwerken aan elk project<small></small>
+Effici&euml;nt digitaal samenwerken aan elk project
 
   </div>
 
@@ -185,28 +187,28 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 {: .no-margin}
 ![](/assets/img/201604041553-e9f72b0c22c2e8dadfb92da6308cb8b2.png){: .thumbnail}
 
-##### Werk op computer, telefoon &eacute;n tablet, zowel online als offline
+Werk op computer, telefoon &eacute;n tablet, zowel online als offline
   </div>
 
   <div class="column">
 {: .no-margin}
 ![](/assets/img/201604041555-2fc4f42b272df4d9eb45cfda161cfde6.png){: .thumbnail}
 
-##### Lees elke plattegrond of andere .pdf gemakkelijk in
+Lees elke plattegrond of andere .pdf/.jpg gemakkelijk in
   </div>
 
   <div class="column">
 {: .no-margin}
 ![](/assets/img/201604041558-0aade2134dfb27eb05d2d3124c5d1b90.png){: .thumbnail}
 
-##### Documenten veilig en toegankelijk in de cloud opgeslagen
+Documenten veilig in de cloud opgeslagen via https
   </div>
 
   <div class="column">
 {: .no-margin}
 ![](/assets/img/201604041601-efd3bd3c866fb8ec8116059a953f23b5.png){: .thumbnail}
 
-##### Maak mooie rapporten in uw huisstijl
+Maak mooie representatieve rapporten in uw huisstijl
   </div>
 </div>
 

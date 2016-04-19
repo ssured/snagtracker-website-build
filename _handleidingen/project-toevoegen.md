@@ -1,5 +1,7 @@
 ---
 title:  "Nieuw project toevoegen"
+links:
+- taken-aanmaken
 ---
 
 Om een nieuwe opname te gaan doen moet een nieuw project aangemaakt worden. Je kan je een project voorstellen als een dossier map, waarin straks alle plattegronden en foto's terecht gaan komen.

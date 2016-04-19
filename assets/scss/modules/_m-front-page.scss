@@ -34,6 +34,7 @@
   #circle {
     position: relative;
     top: -$circle-padding-overlap;
+    margin-bottom: -$circle-padding-overlap;
 
     border-radius: #{$circle-radius} #{$circle-radius} 0 0 / #{$circle-radius} #{$circle-radius} 0 0;
 
@@ -109,5 +110,37 @@
       background: linear-gradient(to bottom, rgba(255,255,255,0) 0,rgba(255,255,255,1) 20vw);
       // background:  rgba(255, 255, 255, 0.5);
     }
+  }
+}
+
+@include keyframes(logogrotate) {
+  0% { @include rotate(0); }
+  100% { @include rotate(10); }
+}
+h1.main-title{
+  font-size: 3em;
+  @include breakpoint(medium) {
+    & {
+      font-size: 600%;
+    }
+  }
+  font-weight: bolder;
+  letter-spacing: -0.08em;
+  span {
+    letter-spacing: -0.2em;
+    display: inline-block;
+    @include rotate(10);
+    @include animation(logogrotate 2s normal forwards ease-in-out);
+  }
+  &::before {
+    content: " ";
+    display: inline-block;
+    width: 1em;
+    height:1em;
+    background:white;
+    border: 0.1em solid black;
+    border-radius: 50%;
+    margin-right: 0.2em;
+    vertical-align: text-bottom;
   }
 }

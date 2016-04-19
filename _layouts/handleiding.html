@@ -2,7 +2,16 @@
 layout: default
 ---
 
-<main>
+<div class="row">
+
+<main class="medium-9 columns handleiding">
 <h1 class='text-center'>{{ page.title }}</h1>
 {{ content }}
 </main>
+
+<div class="medium-3 columns">
+<h3>Gerelateerde onderwerpen:</h3>
+{% include components/links.html %}
+</div>
+
+</div>

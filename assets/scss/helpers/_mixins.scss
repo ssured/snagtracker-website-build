@@ -58,3 +58,30 @@ $stcircleborderfraction: 2/16;
     margin-left: 0.5 * $i * 40px;
   }
 }
+
+@mixin keyframes( $animationName ) {
+  @-webkit-keyframes #{$animationName} { @content; }
+     @-moz-keyframes #{$animationName} { @content; }
+          @keyframes #{$animationName} { @content; }
+}
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+     -moz-animation: #{$str};
+          animation: #{$str};
+}
+
+@mixin transform($transforms) {
+  -webkit-transform: $transforms;
+     -moz-transform: $transforms;
+      -ms-transform: $transforms;
+          transform: $transforms;
+}
+@mixin rotate ($deg) { @include transform(rotate(#{$deg}deg)); }
+@mixin scale($scale) { @include transform(scale($scale)); }
+@mixin translate ($x, $y) { @include transform(translate($x, $y)); }
+@mixin transform-origin ($origin) {
+  -webkit-transform-origin: $origin;
+     -moz-transform-origin: $origin;
+      -ms-transform-origin: $origin;
+          transform-origin: $origin;
+}

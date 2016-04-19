@@ -1,5 +1,8 @@
 ---
 title:  "Account aanmaken"
+links:
+- project-toevoegen
+- taken-aanmaken
 ---
 
 Om met SnagTracker aan de slag te gaan moet je eerst een account aanmaken.
@@ -20,7 +23,8 @@ Als het formulier succesvol ingevuld is, verschijnt het volgende bericht.
 
 ---------------
 ![](/assets/img/201604011143-5dcc4391974edb53f71f33b5dd652be1.png)
-Na een paar minuten krijg je een email met bevestigingslink. Let op; het kan zijn deze in je junk mail/spam box terechtkomt.
+Na een paar minuten krijg je een email met bevestigingslink. **Let op**; het kan zijn dat deze in je junk mail/spam box terechtkomt.
+
 Klik op de link en het inlogscherm verschijnt.
 
 ---------------
