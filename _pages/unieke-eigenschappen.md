@@ -24,7 +24,11 @@ SnagTracker blijft bij de kern; geen overbodige poespas. Importeer uw plattegron
 
 ### Geen app, w&eacute;l overal toegankelijk
 
-SnagTracker is geen app en hoeft dus niet uit de app- of play-store ge&iuml;nstalleerd te worden. Geen gedoe met creditcards of itunes licenties. Omdat SnagTracker gewoon een website is, kunt u zelfs een computer van uw collega lenen om door te werken. Makkelijk toch!? Ondanks dat het een website is, werkt SnagTracker ook door als u even geen verbinding hebt. U kunt dus prima doorwerken als u op een afgelegen locatie bent, zoals in een kelder.
+SnagTracker is geen app en hoeft dus niet uit de app- of play-store ge&iuml;nstalleerd te worden. Geen gedoe met creditcards of iTunes licenties. Omdat SnagTracker gewoon een website is, kunt u zelfs een computer van uw collega lenen om door te werken. Makkelijk toch!? Ondanks dat het een website is, werkt SnagTracker ook door als u even geen verbinding hebt. U kunt dus prima doorwerken als u op een afgelegen locatie bent, zoals in een kelder.
+
+### Automatisch (gratis) up-to-date
+
+We werken voortdurend door aan SnagTracker om verbeteringen of nieuwe functies door te voeren. Deze nieuwe versies ontvangt u automatisch en zonder kosten. Heeft u zelf een wens of idee voor verbetering, dan horen we deze graag!
 
 ### Naadloze synchronisatie tussen mobiel en vaste PC
 

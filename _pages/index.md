@@ -5,15 +5,26 @@ layout: front-page
 ---
 
 <div id="bgimage" class="aligner"><div>
-{: .text-center }
+{: .text-center .main-title}
 # S<span class="show-for-medium">nel en s</span>lim inspecties doen<span class="show-for-large"> met je tablet</span>
 
 <div class="row">
-{: .medium-6 .text-center .columns }
-Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. In de helft van de tijd een kwalitatief beter rapport? Volg openstaande punten op en houd zichtbaar controle over elk project.
+<div class="medium-6 columns">
+Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. Je kan direct op locatie met je tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd!
 
-{: .medium-6 .columns }
-<div>
+{: .show-for-medium}
+ - Bespaar tijd met rapporteren
+ - Duidelijke communicatie verhoogt de kwaliteit
+ - Visuele voortgangscontrole
+
+{: .show-for-medium}
+SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zijn voor iedereen. Ten opzichte van anderen in de markt streven wij naar een **eenvoudig**, **krachtig** en **goedkoop** product. Onze prijzen zijn v&eacute;&eacute;l lager dan elders in de markt, terwijl we misschien zelfs [een mooiere oplossing](/unieke-eigenschappen) leveren.
+
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-medium}
+
+</div>
+
+<div class="medium-6 columns">
 <div class="flex-video widescreen js-media-player">
   <video poster="/assets/img/201604181427-c8c212102829b8eebac78362a7ec752c-play.png" controls crossorigin>
     <!-- Video files -->
@@ -57,10 +68,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
   });
 })();
 </script>
-</div>
-</div>
 
-</div></div>
+[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-small-only}
+
+</div></div>{% comment %}Einde video{% endcomment %}
+
+</div></div>{% comment %}Einde bgimage{% endcomment %}
 
 
 <div id="circle">
@@ -201,5 +214,5 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 [Lees verder hoe wij verschillen van de rest van de markt.](/unieke-eigenschappen)
 </div>
 
-</div><!--end-of-circle-container-->
+</div>{% comment %}Einde circle container{% endcomment %}
 </div>
