@@ -83,24 +83,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div id="circle">
 
 <div id="ipads">
-<div><div class="ipad" style="background-image: url(/assets/img/201604041455-7f92a2350d3d6ce36df7a8f899e12497.png);"><div></div></div>
+<div><div class="ipad show-for-medium" style="background-image: url(/assets/img/201604041455-7f92a2350d3d6ce36df7a8f899e12497.png);"><div></div></div>
 
+{: .show-for-medium}
 # <span>1:</span> Markeer locatie
 
 </div>
-<div><div class="ipad" style="background-image: url(/assets/img/201604041449-073501e4924de95a57ca314556373123.png);"><div></div></div>
+<div><div class="ipad show-for-medium" style="background-image: url(/assets/img/201604041449-073501e4924de95a57ca314556373123.png);"><div></div></div>
 
+{: .show-for-medium}
 # <span>2:</span> Maak foto
 
 </div>
-<div><div class="ipad" style="background-image: url(/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png);"><div></div></div>
+<div><div class="ipad show-for-medium" style="background-image: url(/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png);"><div></div></div>
 
+{: .show-for-medium}
 # <span>3:</span> Wijs toe
 
 </div>
 </div>
 
 <div class="aligner" style="position: absolute; top: 0; left: 30vw; width: 100vw; height: 20vw; backgrounda: rgba(200,255,200,0.5);"><div>
+{: .show-for-medium}
 ## Eenvoudige werkwijze
 </div></div>
 
@@ -109,6 +113,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div class="row">
 {: .medium-4 .text-right .columns}
 #### Stap 1: Markeer locatie
+![](/assets/img/201604041455-7f92a2350d3d6ce36df7a8f899e12497.png){: .thumbnail .show-for-small-only}
 
 {: .medium-8 .columns}
 Op je tablet of telefoon heb je altijd alle plattegronden beschikbaar. Je kan op de plattegronden navigeren met je vingers, net als op Google Maps bijvoorbeeld. Tik met je vinger de locatie aan waar je staat en je maakt direct een nieuwe taak aan.
@@ -118,6 +123,7 @@ Op je tablet of telefoon heb je altijd alle plattegronden beschikbaar. Je kan op
 <div class="row">
 {: .medium-4 .text-right .columns}
 #### Stap 2: Maak foto
+![](/assets/img/201604041449-073501e4924de95a57ca314556373123.png){: .thumbnail .show-for-small-only}
 
 {: .medium-8 .columns}
 Gebruik de camera van je device, die heb je namelijk toch al in je handen. Na het maken van de foto kan je met je vinger gemakkelijk details omcirkelen. Zo is het nog duidelijker wat je bedoelt. Als nodig kan je ook tekst toevoegen.
@@ -126,6 +132,7 @@ Gebruik de camera van je device, die heb je namelijk toch al in je handen. Na he
 <div class="row">
 {: .medium-4 .text-right .columns}
 #### Stap 3: Wijs toe
+![](/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png){: .thumbnail .show-for-small-only}
 
 {: .medium-8 .columns}
 Een taak dient natuurlijk opvolging te hebben. Door deze toe te wijzen aan &eacute;&eacute;n persoon is het altijd duidelijk wie wat moet doen. Later kunt u lijsten filteren zodat u per verantwoordelijke precies kunt zien wie wat moet doen.
@@ -147,7 +154,7 @@ Op je tablet of telefoon zijn alle tekeningen beschikbaar. Bij elke ronde die je
 ### Voortgang in één oogopslag
 ![](/assets/img/201604041645-11f85e78c3ee5d933017bc1857ae4165.png){: .thumbnail}
 
-Wijs taken toe aan onderaannemers en houd de voortgang bij. Het programma maakt automatische voortgangsrapporten. Hoe meer punten afgerond zijn, hoe groener je overzichten. *Haal alle deadlines.*
+Wijs taken toe aan onderaannemers en houd de voortgang bij. Het programma maakt automatische voortgangsrapporten. Hoe meer punten afgerond zijn, hoe groener je overzichten. *Haal deadlines.*
   </div>
 
   <div class="column">

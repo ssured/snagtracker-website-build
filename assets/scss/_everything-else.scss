@@ -64,3 +64,9 @@ main.handleiding {
     height: 2em;
   }
 }
+
+img.thumbnail.show-for-small-only {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
