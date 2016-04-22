@@ -37,7 +37,7 @@ exclude:
   - "package.json"
   - "README.md"
   - "rev-manifest.json"
-  - "SnagTrackerDocs"
+  - "SnagTrackerWebsite"
 
 # Plugins
 gems:             ["jekyll-sitemap", "jekyll-paginate"]
