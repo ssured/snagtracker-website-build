@@ -3,6 +3,7 @@ permalink: /
 layout: front-page
 #title: SnagTracker
 ---
+{% assign handleidingAccountAanmaken = site.handleidingen | where: 'title', "Account aanmaken" | first %}
 
 <div id="bgimage" class="aligner"><div>
 {: .text-center .main-title}
@@ -24,7 +25,7 @@ Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. Gee
 {: .show-for-medium}
 SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zijn voor iedereen. Ten opzichte van anderen in de markt streven wij naar een **eenvoudig**, **krachtig** en **goedkoop** product. Onze prijzen zijn v&eacute;&eacute;l lager dan elders in de markt, terwijl we misschien zelfs [een mooiere oplossing](/unieke-eigenschappen) leveren.
 
-[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-medium}
+[Start nu]({{ handleidingAccountAanmaken.url }}){: .large .expanded .success .button .show-for-medium}
 
 </div>
 
@@ -73,7 +74,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 })();
 </script>
 
-[Registreer nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button .show-for-small-only}
+[Start nu]({{ handleidingAccountAanmaken.url }}){: .large .expanded .success .button .show-for-small-only}
 
 </div></div>{% comment %}Einde video{% endcomment %}
 
@@ -98,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div><div class="ipad show-for-medium" style="background-image: url(/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png);"><div></div></div>
 
 {: .show-for-medium}
-# <span>3:</span> Wijs toe
+# <span>3:</span> Wijs taak toe
 
 </div>
 </div>
@@ -131,7 +132,7 @@ Gebruik de camera van je device, die heb je namelijk toch al in je handen. Na he
 
 <div class="row">
 {: .medium-4 .text-right .columns}
-#### Stap 3: Wijs toe
+#### Stap 3: Wijs taak toe
 ![](/assets/img/201604041452-59f55306e4afd98b9f6efc695ce89d19.png){: .thumbnail .show-for-small-only}
 
 {: .medium-8 .columns}
@@ -169,12 +170,12 @@ Print of email voor uw onderaannemers individuele takenlijsten. Doordat automati
 <div class="callout secondary">
 <div class="row">
 {: .medium-6 .columns .text-center}
-**&euro;50** per maand per gebruiker
+**&euro;50** per maand per gebruiker of project
 <span class="show-for-medium"><br/>3 maanden niet goed geld terug garantie</span>
 <span class="show-for-large">&amp; maandelijks opzegbaar</span>
 
 {: .medium-6 .columns }
-[Start nu](https://app.snagtracker.com/index.html#/login/register){: .large .expanded .success .button}
+[Start nu]({{ handleidingAccountAanmaken.url }}){: .large .expanded .success .button}
 </div>
 </div>
 

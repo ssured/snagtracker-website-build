@@ -5,13 +5,12 @@ links:
 - taken-aanmaken
 ---
 
-Om met SnagTracker aan de slag te gaan moet je eerst een account aanmaken.
+Om met SnagTracker aan de slag te gaan moet je eerst een account aanmaken. Klik op onderstaande link om naar de app toe te gaan en een individueel account aan te maken.
 
-open [https://app.snagtracker.com](https://app.snagtracker.com)
+### Ga naar [Account aanmaken](https://app.snagtracker.com/index.html#/login/register){: target="_blank"}
 
----------------
-![](/assets/img/201604011117-9f0e9c40470146c73a4c362f21e3fb19.png)
-klik rechtsboven `Aanmelden voor nieuw account`
+Door te registreren wordt automatisch een nieuwe SnagTracker omgeving aangemaakt waar je direct mee aan de slag kunt.
+Registreren is eenvoudig, volg onderstaande stappen.
 
 ---------------
 ![](/assets/img/201604011126-90f7e55aa5f0af19e7e7477ac3267796.png)

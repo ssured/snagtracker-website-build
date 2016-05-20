@@ -22,7 +22,7 @@ Een popup venster verschijnt, kies hier `Wis`
 
 
 ---------------
-De gegevens in de browser zijn nu gewist, ga naar https://app.snagtracker.com op je tablet om verder te werken. Je zal opnieuw moeten inloggen.
+De gegevens in de browser zijn nu gewist, ga naar [https://app.snagtracker.com](https://app.snagtracker.com) op je tablet om verder te werken. Je zal opnieuw moeten inloggen.
 
 
 ---------------
@@ -49,4 +49,4 @@ Klik op het rode bolletje voor `snagtracker.com`, kies `Verwijder` en kies `Gere
 
 De gegevens van SnagTracker zijn nu gewist, de gegevens van andere sites zijn ongewijzigd.
 
-Ga naar https://app.snagtracker.com op je tablet om verder te werken. Je zal opnieuw moeten inloggen.
+Ga naar [https://app.snagtracker.com](https://app.snagtracker.com) op je tablet om verder te werken. Je zal opnieuw moeten inloggen.
