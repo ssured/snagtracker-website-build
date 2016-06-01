@@ -12,3 +12,5 @@ mv temp.png $FILENAME.png
 
 echo "![](/assets/img/$FILENAME.png)"
 echo "![](/assets/img/$FILENAME.png)" | pbcopy
+
+# pngpaste - | convert png:- -resize 50% png:- | ./impbcopy -
