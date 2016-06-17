@@ -96,7 +96,7 @@ Na het inspecteren worden alle gegevens automatisch gesynchoniseerd. Op uw PC ku
 </div>
 
 <div class="row">
-<div class="medium-offset-2 medium-8 columns">
+<div class="medium-8 columns">
 
 <div class="flex-video widescreen js-media-player">
   <video poster="/assets/img/movie-play.jpg" controls crossorigin>
