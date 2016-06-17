@@ -19,7 +19,7 @@ layout: front-page
 </div>
 <div class="medium-4 columns">
 
-![](/assets/img/201604041704-d47fb2dd4b6a934417fce6a00651b8d3.png){: .thumbnail}
+![](/assets/img/20160617-ipad.c.png){: .thumbnail style="border: 0; box-shadow: none;"}
 
 </div>
 </div>
