@@ -1,10 +1,10 @@
 <nav>
-  <div class="menu-centered">
-    <ul class="menu">
+  <!-- <div class="menu-centered"> -->
+    <ul class="expanded menu align-center">
       {% for item in site.data.nav-footer %}
-        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        <li class="text-center"><a href="{{ item.url }}">{{ item.link }}</a></li>
       {% endfor %}
-        <li class="menu-text">&copy;{{ site.time | date: '%Y' }} Racido BV</li>
+        <li class="text-center menu-text">&copy;{{ site.time | date: '%Y' }} Racido BV</li>
     </ul>
-  </div>
+  <!-- </div> -->
 </nav>

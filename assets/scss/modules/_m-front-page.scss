@@ -11,7 +11,7 @@
 
   $circle-center-point: 21/34;
 
-  $ipad-width: 28vw;
+  $ipad-width: 300px;
 
   #bgimage {
     background-color: #ffe800;
@@ -20,10 +20,10 @@
     background-position: 50% 50%;
     background-repeat: no-repeat;
 
-    margin: 0;
-    padding: 10px;
-    padding-top: 5vw;
-    padding-bottom: $circle-padding-overlap + $circle-padding-distance;
+    // margin: 0;
+    // padding: 10px;
+    padding-top: 5em;
+    // padding-bottom: $circle-padding-overlap + $circle-padding-distance;
   }
 
   .aligner {
@@ -54,7 +54,8 @@
       position: absolute;
       top: -(4 + $ipad-width * 3 / 4);
       left: (1 - $circle-center-point) * 100vw - $circle-border-width;
-      width: 100vw;
+      width: 100%;
+      max-width: 1080px;
       // height: 20vw;
       // background: rgba(255,200,200,0.5);
       display: flex;
@@ -66,7 +67,7 @@
         border: 0 solid black;
         border-width: #{$ipad-width / 20} #{$ipad-width / 10};
         border-radius: $ipad-width / 22;
-        box-shadow: 0 0 0.5vw #ffe800;
+        box-shadow: 0 0 0.5vw #fff; //#ffe800;
 
         background-size: cover;
         background-position: 50% 50%;
@@ -120,12 +121,13 @@
   100% { @include rotate(10); }
 }
 h1.main-title{
-  font-size: 3em;
+  font-size: ms(4);
   @include breakpoint(medium) {
     & {
-      font-size: 600%;
+      font-size: ms(6);
     }
   }
+
   font-weight: bolder;
   letter-spacing: -0.08em;
   span {
@@ -134,6 +136,7 @@ h1.main-title{
     @include rotate(10);
     @include animation(logogrotate 2s normal forwards ease-in-out);
   }
+
   &::before {
     content: " ";
     display: inline-block;

@@ -55,6 +55,10 @@ $plyr-control-color-hover: #565D64;
 //   in foundation/_foundation.scss.
 
 // Import all of Foundation
+@import '../vendor//modular-scale/stylesheets/modular-scale';
+$ms-base: 14px;
+$ms-ratio: 4/3;
+
 @import 'foundation/foundation';
 
 //

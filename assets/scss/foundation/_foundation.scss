@@ -11,7 +11,6 @@
 // foundation.zurb.com
 // Licensed under MIT Open Source
 
-
 // Foundation Settings
 // --------------------------------------------------
 // Import the settings file where we set variables that
@@ -27,7 +26,11 @@
 @import '../../vendor/motion-ui/motion-ui';
 
 @include foundation-global-styles;
-@include foundation-grid;
+
+// @include foundation-grid;
+@include foundation-flex-classes;
+@include foundation-flex-grid;
+
 @include foundation-typography;
 @include foundation-button;
 // @include foundation-forms;
@@ -62,5 +65,5 @@
 // @include foundation-tooltip;
 @include foundation-top-bar;
 
-@include motion-ui-transitions;
-@include motion-ui-animations;
+// @include motion-ui-transitions;
+// @include motion-ui-animations;
