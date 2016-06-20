@@ -19,7 +19,7 @@ layout: front-page
 </div>
 <div class="medium-4 columns">
 
-![](/assets/img/20160617-ipad.c.png){: .thumbnail style="border: 0; box-shadow: none;"}
+![](/assets/img/20160620-ipad.c.png){: .thumbnail style="border: 0; box-shadow: none;"}
 
 </div>
 </div>
@@ -42,7 +42,7 @@ SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zi
 </div>
 <div class="medium-4 columns light-cell">
 
-### Waarom SnagTracker?
+## Waarom SnagTracker?
 
  - Minimaal **3x goedkoper** dan vergelijkbare producten
  - &euro; 50 per gebruiker of project per maand
