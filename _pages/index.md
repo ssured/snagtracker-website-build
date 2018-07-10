@@ -33,7 +33,7 @@ layout: front-page
 
 Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. Je kan direct op locatie met je tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd!
 
- - Bespaar tijd &eacute;n geld door papierloos te werken
+ - Bespaar tijd door papierloos te werken
  - Duidelijke communicatie verhoogt de kwaliteit
  - Controleer de voortgang en stuur onderaannemers aan
 
@@ -44,11 +44,9 @@ SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zi
 
 ## Waarom SnagTracker?
 
- - Minimaal **3x goedkoper** dan vergelijkbare producten
- - &euro; 50 per gebruiker of project per maand
  - Op maat gemaakte rapporten
  - Geen beklemmende licenties, maandelijks opzegbaar
- - Krachtig (en goedkoop) door **eenvoud**
+ - Krachtig door **eenvoud**
  - Geen app, w&eacute;l overal toegankelijk
  - Naadloze synchronisatie tussen mobiel en PC
  - Drie maanden niet goed geld terug
@@ -150,10 +148,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div class="row">
 <div class="medium-8 columns">
 ## Probeer SnagTracker!
-
-Per maand slechts &euro; 50 per gebruiker of &euro; 50 per project, kies zelf de goedkoopste.
-
-Drie maanden niet goed geld terug garantie.
 
 Om met SnagTracker aan de slag te gaan moet je eerst een account aanmaken. Door te registeren wordt automatisch een nieuwe SnagTracker omgeving aangemaakt waar je binnen een minuut aan de slag kunt.
 
