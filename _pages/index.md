@@ -24,7 +24,6 @@ layout: front-page
 </div>
 </div>
 
-<hr/>
 
 <div class="row medium-unstack">
 <div class="medium-8 columns">
@@ -143,7 +142,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </div>
 </div>
 
-<hr/>
 
 <div class="row">
 <div class="medium-8 columns">
@@ -157,7 +155,7 @@ Registreren is eenvoudig! Klik op de onderstaande link en vul het formulier in.
 </div>
 
 <div class="medium-4 columns light-cell">
-### Belangrijkste eigenschappen
+## Unieke eigenschappen
 
  - Inspecteren met je tablet of telefoon
  - Plattegronden vanaf .pdf of .jpg
