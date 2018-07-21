@@ -8,7 +8,7 @@ links:
 
 Leuk dat je geinteresseerd bent in SnagTracker!
 
-Deze pagina helpt je op weg met de eerste beginselen. Ben je daar mee klaar dan kan je verder gaan naar:
+Deze pagina helpt u op weg met als kennismaken met de basis functies. Ben u daar mee klaar dan kan je verder gaan naar:
 
 {% include links.md %}
 
