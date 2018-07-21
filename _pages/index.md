@@ -30,13 +30,13 @@ layout: front-page
 
 ## Wat is het?
 
-Met SnagTracker digitaliseer en organiseer je inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. Je kan direct op locatie met je tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd!
+Met SnagTracker digitaliseer en organiseert u inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. U kunt direct op locatie met uw tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd.
 
  - Bespaar tijd door papierloos te werken
  - Duidelijke communicatie verhoogt de kwaliteit
- - Controleer de voortgang en stuur onderaannemers aan
+ - Controleer de voortgang en stuur de specialisten aan
 
-SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zijn voor iedereen. Ten opzichte van anderen in de markt streven wij naar een eenvoudig, krachtig en goedkoop product. Onze prijzen zijn v&eacute;&eacute;l lager dan elders in de markt, terwijl we misschien zelfs [een betere oplossing](/unieke-eigenschappen) leveren.
+SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zijn voor iedereen. Ten opzichte van anderen in de markt streven wij naar een eenvoudig, krachtig en betrouwbaar product.
 
 </div>
 <div class="medium-4 columns light-cell">
@@ -44,12 +44,10 @@ SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zi
 ## Waarom SnagTracker?
 
  - Op maat gemaakte rapporten
- - Geen beklemmende licenties, maandelijks opzegbaar
  - Krachtig door **eenvoud**
  - Geen app, w&eacute;l overal toegankelijk
  - Naadloze synchronisatie tussen mobiel en PC
- - Drie maanden niet goed geld terug
- - Gratis automatische updates
+ - Automatische updates
 
 [Maak een account aan](https://app.snagtracker.com/#/login/register){: .expanded .button }
 
@@ -147,9 +145,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div class="medium-8 columns">
 ## Probeer SnagTracker!
 
-Om met SnagTracker aan de slag te gaan moet je eerst een account aanmaken. Door te registeren wordt automatisch een nieuwe SnagTracker omgeving aangemaakt waar je binnen een minuut aan de slag kunt.
+Ga aan de slag met SnagTracker; maak een account aan, door te registeren en probeer het uit. Let op: dit is een demo account, hieraan kunnen geen rechten of plichten worden ontleend.
 
-Registreren is eenvoudig! Klik op de onderstaande link en vul het formulier in.
+Registreren kan via de onderstaande link en vul het formulier in.
 
 [Maak een account aan](https://app.snagtracker.com/#/login/register){: .expanded .button }
 </div>
@@ -157,7 +155,7 @@ Registreren is eenvoudig! Klik op de onderstaande link en vul het formulier in.
 <div class="medium-4 columns light-cell">
 ## Unieke eigenschappen
 
- - Inspecteren met je tablet of telefoon
+ - Te gebruiken met pc, tablet, telefoon, etc
  - Plattegronden vanaf .pdf of .jpg
  - Rapportages direct klaar
  - Taken toewijzen aan verantwoordelijken
@@ -165,7 +163,6 @@ Registreren is eenvoudig! Klik op de onderstaande link en vul het formulier in.
  - Automatische synchronisatie
  - Werkt online en offline
  - Altijd up-to-date
- - Alles in &eacute;&eacute;n prijs, geen fratsen
 </div>
 </div>
 
