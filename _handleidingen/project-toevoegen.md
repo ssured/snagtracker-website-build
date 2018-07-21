@@ -4,14 +4,14 @@ links:
 - taken-aanmaken
 ---
 
-Om een nieuwe opname te gaan doen moet een nieuw project aangemaakt worden. Je kan je een project voorstellen als een dossier map, waarin straks alle plattegronden en foto's terecht gaan komen.
+Om een nieuwe opname te gaan doen moet een nieuw project aangemaakt worden. U kunt zich een project voorstellen als een dossier map, waarin straks alle plattegronden en foto's terecht gaan komen.
 
 Deze handleiding omvat 2 stappen:
 
 1. [Nieuw project aanmaken](#nieuw-project-aanmaken)
 2. [Plattegronden toevoegen](#plattegronden-toevoegen)
 
-Als je deze stappen doorlopen hebt kan je verder naar:
+Als u deze stappen heeft doorlopen, ga dan verder naar:
 
 - [Taken aanmaken]({{ "/handleidingen/taken-aanmaken.html" | prepend: site.baseurl}})
 
@@ -79,9 +79,9 @@ En kies het juiste bestand:
 ---------------------------------------
 ![](/assets/img/201602171509-4ffe4da0184f659fd54ca85ffb94b7d1.png)
 
-Nadat het bestand op de server is aangekomen, wordt deze door de server omgezet naar een voor SnagTracker bruikbaar formaat. Concreet gezegd wordt een grote PDF omgezet naar allemaal kleine fragmenten. Het is daardoor mogelijk om net als in Google Maps snel te navigeren op een grote kaart.
+Nadat het bestand op de server is aangekomen, wordt deze op de server omgezet naar een voor SnagTracker bruikbaar formaat. Concreet gezegd wordt een grote PDF omgezet naar allemaal kleine fragmenten. Na deze bewerking is het mogelijk om net als in online routeplanners snel te navigeren op een grote kaart.
 
-Na het uploaden verschijnt er een voortgangsindicator in beeld. Als deze verdwijnt dan is de server klaar.
+Na het uploaden verschijnt er een voortgangsindicator in beeld. Als deze verdwijnt dan is de omzetting voltooid.
 
 ---------------------------------------
 ![](/assets/img/201602171446-8e63caa3c32077314812bfe07df562ee.png)
