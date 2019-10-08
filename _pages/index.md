@@ -32,7 +32,7 @@ layout: front-page
 
 ## Wat is het?
 
-Met SnagTracker digitaliseer en organiseert u inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. U kunt direct op locatie met uw tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd.
+Met SnagTracker digitaliseert en organiseert u inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. U kunt direct op locatie met uw tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd.
 
 - Bespaar tijd door papierloos te werken
 - Duidelijke communicatie verhoogt de kwaliteit
