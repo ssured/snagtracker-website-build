@@ -3,6 +3,7 @@ permalink: /
 layout: front-page
 #title: SnagTracker
 ---
+
 {% assign handleidingAccountAanmaken = site.handleidingen | where: 'title', "Account aanmaken" | first %}
 
 <div id="bgimage">
@@ -11,10 +12,12 @@ layout: front-page
 <div class="medium-8 columns">
 
 {: .text-center .main-title}
+
 # **Sna<span>g</span>Tracker**
 
 {: .text-center .sub-title}
-### Snel en slim inspecties doen<span class="show-for-large"> met je tablet!</span>
+
+### Snel en slim inspecties doen<span class="show-for-large"> met de tablet!</span>
 
 </div>
 <div class="medium-4 columns">
@@ -24,7 +27,6 @@ layout: front-page
 </div>
 </div>
 
-
 <div class="row medium-unstack">
 <div class="medium-8 columns">
 
@@ -32,9 +34,9 @@ layout: front-page
 
 Met SnagTracker digitaliseer en organiseert u inspecties in een handomdraai. Geen gedoe meer met losse aantekeningen en foto's. U kunt direct op locatie met uw tablet of telefoon taken vastleggen. Rapporten uitwerken op kantoor is verleden tijd.
 
- - Bespaar tijd door papierloos te werken
- - Duidelijke communicatie verhoogt de kwaliteit
- - Controleer de voortgang en stuur de specialisten aan
+- Bespaar tijd door papierloos te werken
+- Duidelijke communicatie verhoogt de kwaliteit
+- Controleer de voortgang en stuur de specialisten aan
 
 SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zijn voor iedereen. Ten opzichte van anderen in de markt streven wij naar een eenvoudig, krachtig en betrouwbaar product.
 
@@ -43,11 +45,11 @@ SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zi
 
 ## Waarom SnagTracker?
 
- - Op maat gemaakte rapporten
- - Krachtig door **eenvoud**
- - Geen app, w&eacute;l overal toegankelijk
- - Naadloze synchronisatie tussen mobiel en PC
- - Automatische updates
+- Op maat gemaakte rapporten
+- Krachtig door **eenvoud**
+- Geen app, w&eacute;l overal toegankelijk
+- Naadloze synchronisatie tussen mobiel en PC
+- Automatische updates
 
 [Maak een account aan](https://app.snagtracker.com/#/login/register){: .expanded .button }
 
@@ -60,9 +62,9 @@ SnagTracker vindt dat gemakkelijk en duidelijk communiceren toegankelijk moet zi
 
 SnagTracker werkt zeer eenvoudig.
 
- - **Stap 1:** Markeer de locatie op de plattegrond
- - **Stap 2:** Maak een foto met de ingebouwde camera
- - **Stap 3:** Wijs toe aan een verantwoordelijke om af te handelen
+- **Stap 1:** Markeer de locatie op de plattegrond
+- **Stap 2:** Maak een foto met de ingebouwde camera
+- **Stap 3:** Wijs toe aan een verantwoordelijke om af te handelen
 
 Na het inspecteren worden alle gegevens automatisch gesynchoniseerd. Op uw PC kunt u vervolgens de gegevens aanvullen, rapporten opstellen en de projectvoortgang inzien.
 
@@ -100,6 +102,7 @@ Na het inspecteren worden alle gegevens automatisch gesynchoniseerd. Op uw PC ku
     <source src="/assets/video/snagtracker.webm" type="video/webm">
 
     <a href="/assets/video/snagtracker.mp4">Download video</a>
+
   </video>
 </div>
 
@@ -140,7 +143,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </div>
 </div>
 
-
 <div class="row">
 <div class="medium-8 columns">
 ## Probeer SnagTracker!
@@ -150,20 +152,21 @@ Ga aan de slag met SnagTracker; maak een account aan, door te registeren en prob
 Registreren kan via de onderstaande link en vul het formulier in.
 
 [Maak een account aan](https://app.snagtracker.com/#/login/register){: .expanded .button }
+
 </div>
 
 <div class="medium-4 columns light-cell">
 ## Unieke eigenschappen
 
- - Te gebruiken met pc, tablet, telefoon, etc
- - Plattegronden vanaf .pdf of .jpg
- - Rapportages direct klaar
- - Taken toewijzen aan verantwoordelijken
- - Inzicht in projectvoortgang
- - Automatische synchronisatie
- - Werkt online en offline
- - Altijd up-to-date
-</div>
-</div>
+- Te gebruiken met pc, tablet, telefoon, etc
+- Plattegronden vanaf .pdf of .jpg
+- Rapportages direct klaar
+- Taken toewijzen aan verantwoordelijken
+- Inzicht in projectvoortgang
+- Automatische synchronisatie
+- Werkt online en offline
+- Altijd up-to-date
+  </div>
+  </div>
 
 </div>
